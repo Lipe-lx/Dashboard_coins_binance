@@ -1,0 +1,15 @@
+project/
+  |-- api/ (pasta com arquivos relacionados à comunicação com a API)
+  |-- data/ (pasta com arquivos relacionados à coleta e armazenamento de dados)
+  |-- dashboard/ (pasta com arquivos relacionados à geração do dashboard)
+  |-- models/ (pasta com arquivos que definem os modelos do banco de dados)
+  |-- static/ (pasta com arquivos estáticos, como imagens e arquivos CSS)
+  |-- templates/ (pasta com templates HTML para o dashboard)
+  |-- tests/ (pasta com arquivos de teste)
+  |-- main.py (arquivo principal que inicializa o app)
+  |-- config.py (arquivo com configurações do app)
+  |-- requirements.txt (arquivo com as dependências do projeto)
+  |-- run_tests.py (script para executar os testes)
+
+  pip install -r requirements.txt
+
